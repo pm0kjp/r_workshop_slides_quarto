@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+/.quarto/
+00 - Welcome_files/
+01 - Introduction_files/
+02 - Visualize_files/
+03 - Transform_files/
+/rsconnect
